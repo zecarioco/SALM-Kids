@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SALM Kids</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="configura_es">CONFIGURAÇÕES</string>
+    <string name="logo">logo</string>
+    <string name="iconelistalinguagens">iconeListaLinguagens</string>
+    <string name="confirmar">CONFIRMAR</string>
+    <string name="digite_a_palavra">Digite a palavra</string>
+</resources>
